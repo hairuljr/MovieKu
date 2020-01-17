@@ -1,0 +1,23 @@
+<resources>
+	<string name="app_name">Movie</string>
+	<string name="description">Movie</string>
+	<string name="title_network_alert">Jaringan Error</string>
+	<string name="message_network_alert">Pastikan kamu terkoneksi ke internet</string>
+	<string name="release_date_error">Tanggal rilis tidak ada</string>
+
+	<!--DashBoard Menu Strings-->
+	<string name="top_rated">Rating</string>
+	<string name="favorites">Favorit</string>
+	<string name="popular">Populer</string>
+	<string name="sort_by">Urutkan</string>
+
+	<!--Movie Details Section-->
+	<string name="share_trailer">Share trailer</string>
+	<string name="add_to_favorites">Tandai favorit</string>
+	<string name="remove_from_favorites">Hapus dari favorit</string>
+	<string name="watch_trailer">Tonton trailer</string>
+
+	<!--Rating-->
+	<string name="movie_user_rating">TMDb: %1$s/10</string>
+
+</resources>
